@@ -1,0 +1,5 @@
+git add .
+git commit -m "Faz Algo" -m "Body"
+git log --graph
+git branch nome_da_branch
+git checkout file.txt
